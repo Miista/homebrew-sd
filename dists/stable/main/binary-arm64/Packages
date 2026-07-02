@@ -1,0 +1,16 @@
+Package: sd
+Architecture: arm64
+Version: 0.9.3
+Priority: optional
+Maintainer: Miista <noreply@users.noreply.github.com>
+Installed-Size: 3072
+Recommends: curl
+Filename: pool/main/sd_0.9.3_linux_arm64.deb
+Size: 1307640
+MD5sum: 51afb6a37cb4fc88de7fed658bbecd16
+SHA1: 32ffb5d5dcc472b6ac8d59aa40e43250cd1e66d5
+SHA256: f645dde1937674ff1f901e6db1c9ea1256e19175d9107a788affc394bcb1161e
+SHA512: 5f634a412cba59939b89be7200246c0d49ed46c46f97528ad9a63cb2f5ac4d28bb0cee1743a379046ea346e138d2af679bb0f449a10e92a55ed743a606990479
+Homepage: https://github.com/Miista/homebrew-sd
+Description: Generate split-horizon DNS (Pi-hole/dnsmasq) and Caddy site blocks from a declarative services.yaml
+
